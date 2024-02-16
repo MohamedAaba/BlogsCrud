@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "id": "d600",
+      "name": "simo",
+      "email": "simo@gmail.com",
+      "password": "simo"
+    },
+    {
+      "id": "d700",
+      "name": "admin",
+      "email": "simo@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "d800",
+      "name": "test",
+      "email": "simo@gmail.com",
+      "password": "test"
+    }
+  ],
+  "blogs": [
+    {
+      "title": "title modified",
+      "description": "desc modified",
+      "id": "e1d2"
+    },
+    {
+      "id": "9cb1",
+      "title": "title modified",
+      "description": "desc modified",
+      "userId": "d700"
+    },
+    {
+      "title": "title modified",
+      "description": "desc modified",
+      "userId": "d700",
+      "id": "9ed4"
+    }
+  ]
+}
